@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FaishalAPP</string>
+    <string name="title_activity_welcome">Beranda</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">SELAMAT DATANG</string>
+    <string name="slide_1_desc">DI FAISHAL APP</string>
+
+    <string name="slide_2_title">FAISHAL APP</string>
+    <string name="slide_2_desc">Aplikasi ini berisi tentang profile Faishal Ghani Despara</string>
+
+    <string name="slide_3_title">FAISHAL APP</string>
+    <string name="slide_3_desc">Semoga suka dengan aplikasi ini.</string>
+</resources>
